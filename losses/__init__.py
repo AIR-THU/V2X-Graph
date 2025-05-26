@@ -1,0 +1,2 @@
+from losses.laplace_nll_loss import LaplaceNLLLoss
+from losses.soft_target_cross_entropy_loss import SoftTargetCrossEntropyLoss
